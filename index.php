@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
     <link rel="stylesheet" href="css/animate.css">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
 <!--[if lt IE 9]>
   <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
