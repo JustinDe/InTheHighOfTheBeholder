@@ -62,6 +62,18 @@ table {
 	display: block;
 }
 
+.char{
+	width: 400px;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.char img{
+	max-width: 100%;
+	height: auto;
+}
+
 #message{
 	width: 96%;
 	color: #fff;
