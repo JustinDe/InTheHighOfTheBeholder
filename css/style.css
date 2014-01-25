@@ -52,6 +52,7 @@ table {
 	margin: 0 auto;
 	position: relative;
 	overflow: hidden;
+	margin-top: 20px;
 }
 
 .name{
