@@ -1,0 +1,6 @@
+[26-Jan-2014 05:03:22 America/New_York] PHP Warning:  include(template/header.php): failed to open stream: No such file or directory in /home/hashtagn/public_html/InTheHighOfTheBeholder/Mox_Fin/mox_end.php on line 1
+[26-Jan-2014 05:03:22 America/New_York] PHP Warning:  include(template/header.php): failed to open stream: No such file or directory in /home/hashtagn/public_html/InTheHighOfTheBeholder/Mox_Fin/mox_end.php on line 1
+[26-Jan-2014 05:03:22 America/New_York] PHP Warning:  include(): Failed opening 'template/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hashtagn/public_html/InTheHighOfTheBeholder/Mox_Fin/mox_end.php on line 1
+[26-Jan-2014 05:03:22 America/New_York] PHP Warning:  include(template/footer.php): failed to open stream: No such file or directory in /home/hashtagn/public_html/InTheHighOfTheBeholder/Mox_Fin/mox_end.php on line 28
+[26-Jan-2014 05:03:22 America/New_York] PHP Warning:  include(template/footer.php): failed to open stream: No such file or directory in /home/hashtagn/public_html/InTheHighOfTheBeholder/Mox_Fin/mox_end.php on line 28
+[26-Jan-2014 05:03:22 America/New_York] PHP Warning:  include(): Failed opening 'template/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hashtagn/public_html/InTheHighOfTheBeholder/Mox_Fin/mox_end.php on line 28

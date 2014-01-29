@@ -1,36 +1,37 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>In the High of the Beholder</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
-    <link rel="stylesheet" href="css/animate.css">
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-<!--[if lt IE 9]>
-  <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-</head>
-<body>
+<?php include 'template/header.php'; ?>
 
 <style media="screen" type="text/css">
 
 #board{
-	background: url('images/tempbg.jpg') no-repeat top center;
+	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/bg/Classroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
+h1 {
+    color: #FFFFFF;
+    font-family: Gotham,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 100px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#message{
+	text-align:center;
+	}
+
 </style>
+</div>
 
 	<section id="board">
-	<div class="char"><img src="images/temp.png"></div>
+	<h1>Beholder High</h1>
 		<div id="message">
-			<span class="name">Eugene</span><p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel ante tempor, tempus orci non, egestas arcu. Nunc ac mauris at tellus pharetra tempus at vitae elit. Sed luctus justo vitae magna placerat bibendum. Proin sit amet pretium leo, a sagittis nunc. Vivamus tempor egestas massa, tincidunt aliquet libero vulputate ut. Phasellus gravida, eros nec suscipit bibendum, leo diam pretium metus, vitae porta tortor nisi a neque. Donec commodo arcu quis est eleifend sollicitudin. Ut convallis quam sit amet nisl fringilla iaculis. Nunc ullamcorper leo non molestie ultricies. Donec laoreet velit eu justo blandit, ac tempor felis vulputate. Phasellus dapibus ullamcorper neque, id aliquet leo fringilla vitae. Phasellus sagittis sodales urna, ut posuere augue molestie ac. Quisque ut consectetur diam, in adipiscing lacus.
-			</p>
-			<a href="javascript:void(0)" onclick="$('.char').addClass('animated bounceOutLeft');" class="next">Next</a>
+			<form action='_index2.php' method='POST'>
+		Player Name: 
+		<input type="text" name="username" id="username">
+		<input type="submit" value="Submit">
+	</form>
 		</div>
 	</section>
-
-</body>
-</html>
+<?php include 'template/footer.php';?>
