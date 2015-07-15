@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Library.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Library.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char left"><img src="../images/char/beth/bethel-neutral.png"></div>
+	<div class="char left"><img src="/InTheHighOfTheBeholder/images/char/beth/bethel-neutral.png"></div>
 		<div id="message">
 <p>
 It's just as well. You really should study. Unsure of what the next week's test actually covers, you commit to a more general course of reading. Whatever your grade, you're confident that knowledge is its own reward.

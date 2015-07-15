@@ -3,14 +3,14 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Library.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Library.jpg') no-repeat top center;
 	background-size: cover;
 }
 
 </style>
 
 	<section id="board">
-	<div class="char left"><img src="../images/char/beth/bethel-neutral.png"></div>
+	<div class="char left"><img src="/InTheHighOfTheBeholder/images/char/beth/bethel-neutral.png"></div>
 		<div id="message">
 			<span class="name"><?php echo $_SESSION['username'] ?></span>
 <?php

@@ -9,7 +9,7 @@ $_SESSION['Siri']= array(0,0,0);
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Classroom.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Classroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 

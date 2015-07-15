@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Gas Station2.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Gas Station2.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char center"><img src="../images/char/siri/siri-happy.png"></div>
+	<div class="char center"><img src="/InTheHighOfTheBeholder/images/char/siri/siri-happy.png"></div>
 		<div id="message">
 			<p>
 				Siriak the Rapid eyes the beer as though it were an ingot of pure silver. You can see that you've done well.

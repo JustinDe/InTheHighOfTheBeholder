@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Classroom.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Classroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char left"><img src="../images/char/beth/bethel-neutral.png"></div>
+	<div class="char left"><img src="/InTheHighOfTheBeholder/images/char/beth/bethel-neutral.png"></div>
 		<div id="message">
 			<p>The sight of Bethelzed, sitting in the front row, taking studious notes, inspires something academic in you. You decide to pay attention.</p>
 			<a href="03.php" class="next">Next</a>

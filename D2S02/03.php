@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Classroom.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Classroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char left"><img src="../images/char/beth/bethel-neutral.png"></div>
+	<div class="char left"><img src="/InTheHighOfTheBeholder/images/char/beth/bethel-neutral.png"></div>
 		<div id="message">
 			<p>
 				But it's Shakespeare. Ugh. Today you're reading Act 5 of Henry VI in class. You can't recall anything from the first four acts.

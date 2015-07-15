@@ -6,8 +6,8 @@ session_start();
 <head>
 	<meta charset="UTF-8">
 	<title>In the High of the Beholder</title>
-	<link rel="stylesheet" type="text/css" href="/css/style.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" media="screen" />
-    <link rel="stylesheet" href="/css/animate.css">
+	<link rel="stylesheet" type="text/css" href="/InTheHighOfTheBeholder/css/style.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" media="screen" />
+    <link rel="stylesheet" href="/InTheHighOfTheBeholder/css/animate.css">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <!--[if lt IE 9]>

@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Lunchroom.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Lunchroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char center"><img src="../images/char/siri/siri-neutral.png"></div>
+	<div class="char center"><img src="/InTheHighOfTheBeholder/images/char/siri/siri-neutral.png"></div>
 		<div id="message">
 			<span class="name">Siriak the Rapid</span><p>
 				 Ha! I didn't even see you there, <?php echo($_SESSION['username']); ?>. But you get what I'm talking about, right? It's all about spinning rims and fuzzy dice. All that. We're going to hang out by the dumpster during free period. I stole some smokes from my mom. You should come with.

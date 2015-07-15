@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('../images/bg/Lunchroom.jpg') no-repeat top center;
+	background: url('/InTheHighOfTheBeholder/images/bg/Lunchroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char left animated fadeInLeft"><img src="../images/char/beth/bethel-neutral.png"></div>
+	<div class="char left animated fadeInLeft"><img src="/InTheHighOfTheBeholder/images/char/beth/bethel-neutral.png"></div>
 		<div id="message">
 			<p>
 				Bethelzed's few friends sit quietly amid their open textbooks. Bethelzed is reading intently. 
