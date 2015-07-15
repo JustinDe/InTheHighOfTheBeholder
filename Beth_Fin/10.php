@@ -3,14 +3,14 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/bg/Library.jpg') no-repeat top center;
+	background: url('/images/bg/Library.jpg') no-repeat top center;
 	background-size: cover;
 }
 
 </style>
 
 	<section id="board">
-	<div class="char center"><img src="http://hashtagnerd.com/InTheHighOfTheBeholder/images/char/beth/bethel-angry.png"></div>
+	<div class="char center"><img src="/images/char/beth/bethel-angry.png"></div>
 		<div id="message">
         <span class="name">Bethelzed</span>
 		<p>

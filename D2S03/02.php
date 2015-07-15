@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/bg/Lunchroom.jpg') no-repeat top center;
+	background: url('/images/bg/Lunchroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char right"><img src="http://hashtagnerd.com/InTheHighOfTheBeholder/images/char/siri/siri-angry1.png"></div>
+	<div class="char right"><img src="/images/char/siri/siri-angry1.png"></div>
 		<div id="message">
 			<p>
 				Anyway, before you can scan the tables, Siriak the Rapid bumps into you. You hear the jingle of car keys.

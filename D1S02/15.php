@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/bg/Lunchroom.jpg') no-repeat top center;
+	background: url('/images/bg/Lunchroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char center animated fadeInUp"><img src="http://hashtagnerd.com/InTheHighOfTheBeholder/images/char/siri/siri-neutral.png"></div>
+	<div class="char center animated fadeInUp"><img src="/images/char/siri/siri-neutral.png"></div>
 		<div id="message">
 			<p>
 				Siriak sits surrounded by hangers on. You squeeze into a small wedge of table space.

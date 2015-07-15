@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/bg/Soccer Field.jpg') no-repeat top center;
+	background: url('/images/bg/Soccer Field.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char right"><img src="http://hashtagnerd.com/InTheHighOfTheBeholder/images/char/mox/mox-happy.png"></div>
+	<div class="char right"><img src="/images/char/mox/mox-happy.png"></div>
 		<div id="message"><p>
 			Moxanimous gives you a wave with an eye-stalk, and hustles back into position.
 			</p>

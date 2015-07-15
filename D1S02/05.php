@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/bg/Lunchroom.jpg') no-repeat top center;
+	background: url('/images/bg/Lunchroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char right"><img src="http://hashtagnerd.com/InTheHighOfTheBeholder/images/char/mox/mox-happy.png"></div>
+	<div class="char right"><img src="/images/char/mox/mox-happy.png"></div>
 		<div id="message">
 			<span class="name">Moxanimous</span><p>
 				I'm just kidding, <?php echo($username); ?>. You don't have to be so serious all the time. 

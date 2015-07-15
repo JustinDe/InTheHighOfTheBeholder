@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/bg/Classroom.jpg') no-repeat top center;
+	background: url('/images/bg/Classroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char center"><img src="http://hashtagnerd.com/InTheHighOfTheBeholder/images/char/beth/bethel-happy.png"></div>
+	<div class="char center"><img src="/images/char/beth/bethel-happy.png"></div>
 		<div id="message">
 			<p>
 				Bethelzed says nothing, but you can see gratitude in those eye-stalks.

@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('http://hashtagnerd.com/InTheHighOfTheBeholder/images/char/mox/mox-splash.png') no-repeat top center;
+	background: url('/images/char/mox/mox-splash.png') no-repeat top center;
 	background-size: cover;
 }
 
@@ -19,8 +19,8 @@
 		</div>
 	</section>
     <div id="audio"><audio controls autoplay>
-  <source src="http://hashtagnerd.com/InTheHighOfTheBeholder/audio/theme.ogg" type="audio/ogg">
-  <source src="http://hashtagnerd.com/InTheHighOfTheBeholder/audio/theme.mp3" type="audio/mpeg">
+  <source src="/audio/theme.ogg" type="audio/ogg">
+  <source src="/audio/theme.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 </div>
