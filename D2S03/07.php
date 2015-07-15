@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('/images/bg/Gas Station2.jpg') no-repeat top center;
+	background: url('../images/bg/Gas Station2.jpg') no-repeat top center;
 	background-size: cover;
 }
 

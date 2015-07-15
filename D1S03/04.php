@@ -4,7 +4,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('/images/bg/Library.jpg') no-repeat top center;
+	background: url('../images/bg/Library.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -13,7 +13,7 @@
 </div>
 
 	<section id="board">
-	<div class="char left"><img src="/images/char/beth/bethel-neutral.png"></div>
+	<div class="char left"><img src="../images/char/beth/bethel-neutral.png"></div>
 		<div id="message">
 <p>
 Bethelzed pulls a withered tome from the shelf with telekinesis, and adds it to a pile on a nearby table. You take a seat in the shadow of study mountain, but before you can speak, Bethelzed shushes you.

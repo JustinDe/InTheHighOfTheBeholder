@@ -3,14 +3,14 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('/images/bg/Lunchroom.jpg') no-repeat top center;
+	background: url('../images/bg/Lunchroom.jpg') no-repeat top center;
 	background-size: cover;
 }
 
 </style>
 
 	<section id="board">
-	<div class="char left"><img src="/images/char/siri/siri-neutral.png"></div>
+	<div class="char left"><img src="../images/char/siri/siri-neutral.png"></div>
 		<div id="message">
 			<span class="name"><?php echo($_SESSION['username']); ?></span>
 <?php

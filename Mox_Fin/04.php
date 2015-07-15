@@ -3,14 +3,14 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('/images/bg/Soccer Field.jpg') no-repeat top center;
+	background: url('../images/bg/Soccer Field.jpg') no-repeat top center;
 	background-size: cover;
 }
 
 </style>
 
 	<section id="board">
-	<div class="char center"><img src="/images/char/mox/mox-angry.png"></div>
+	<div class="char center"><img src="../images/char/mox/mox-angry.png"></div>
 		<div id="message">
         <span class="name">Moxanimous</span>
 	<p>

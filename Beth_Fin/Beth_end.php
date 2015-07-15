@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('/images/char/beth/beth-splash.png') no-repeat top center;
+	background: url('../images/char/beth/beth-splash.png') no-repeat top center;
 	background-size: cover;
 }
 

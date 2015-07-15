@@ -3,7 +3,7 @@
 <style media="screen" type="text/css">
 
 #board{
-	background: url('/images/bg/Soccer Field.jpg') no-repeat top center;
+	background: url('../images/bg/Soccer Field.jpg') no-repeat top center;
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 </div>
 
 	<section id="board">
-	<div class="char right"><img src="/images/char/mox/mox-neutral.png"></div>
+	<div class="char right"><img src="../images/char/mox/mox-neutral.png"></div>
 		<div id="message">
 			<span class="name">Moxanimous</span><p>
 				Before you can clarify, one of the other players calls out to Moxanimous: “Hey, Moxie, coach says your bicycle kick is looking killer!”
